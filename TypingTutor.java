@@ -1,4 +1,4 @@
-package aug5;
+// Developed by Shivang Agarwal
 
 import java.awt.Font;
 import java.awt.GridLayout;
